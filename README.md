@@ -69,6 +69,4 @@ This notebook is designed to be run in a Google Colab environment (or any Python
 *   **Evaluation of Multilabel Classifier**: Implement metrics suitable for multilabel classification (e.g., Hamming loss, Jaccard similarity score, accuracy per label) to thoroughly evaluate the KNN model's performance.
 *   **Evaluation of Denoising Model**: Quantitatively evaluate the performance of the denoising model (e.g., using metrics like Mean Squared Error between the denoised image and the original clean image) and explore other denoising techniques.
 
-## License
-
-[Optional: Specify your project's license, e.g., MIT License]
+your project's license, e.g., MIT License]
